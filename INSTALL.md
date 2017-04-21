@@ -48,7 +48,7 @@ required cpan modules.
 
 To install missing Perl modules, you can:
 
-###a) Install the packages via the package manager of your Linux distribution.
+### a) Install the packages via the package manager of your Linux distribution.
 
 - For Red Hat, CentOS, Fedora or compatible systems:
 
@@ -78,9 +78,9 @@ Please note that it might be that you can't find all modules or their
 required versions in your distribution repository, in that case you might
 choose to install those modules via CPAN (see below).
 
-###or
+### or
 
-###b) Install the required modules via the CPAN shell
+### b) Install the required modules via the CPAN shell
 
 note that when you're on Linux you should run CPAN as your superuser
 account because the modules should be accessible both by the OTRS
